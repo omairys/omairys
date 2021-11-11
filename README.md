@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I really enjoy contributing to technological products that help people. And I hope that one day I can inspire new generations to do the same.
+My name is Omairys, a student of the Mobile App Development program at Lambton College. I have always considered myself a technology enthusiast; that's why I have become a Programmer. I have always been interested in how systems work and how they help people have changed their lives by connecting them with new technologies, which has led me to work for financial sector companies with payment methods and process automation.
 
-- 🔭 I'm currently working on something great, the best project I have: myself.
-- 🌱 I'm currently learning more Java, Swift, Android, iOS, React, Node JS, Spring Framework and always learning something new.
-- 👯 I'm looking to collaborate on a project with you if you want to.
+- 🔭 I feel really headed to achieve the best version of my every day.
+- 🌱 I worked with other teams to deliver results focused on improving company profits and fulfilling the final users with tailored enterprise solutions.
+- 👯 I am looking to contribute with ideas, knowledge, previous experience, continuous learning, and the same final results.
 
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
