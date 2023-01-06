@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Omairys, a student of the Mobile App Development program at Lambton College. I have always considered myself a technology enthusiast; that's why I have become a Programmer. I have always been interested in how systems work and how they help people have changed their lives by connecting them with new technologies, which has led me to work for financial sector companies with payment methods and process automation.
+I am a highly skilled and experienced software engineer with over five years of experience developing web and mobile applications. I have worked on many projects, from small single-page applications to large enterprise systems. I have a solid understanding of agile methodologies and a proven ability to work efficiently and collaboratively in a team. I also have a wide range of technical skills, including experience with programming languages such as Java and JavaScript and development frameworks like React and Spring. If you need a reliable and capable developer to take on your next project, please don't hesitate to contact me.
 
 - 🔭 I feel really headed to achieve the best version of my every day.
 - 🌱 I worked with other teams to deliver results focused on improving company profits and fulfilling the final users with tailored enterprise solutions.
@@ -26,6 +26,8 @@ My name is Omairys, a student of the Mobile App Development program at Lambton C
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 
 <!--
+https://www.buymeacoffee.com/omairys
+
 **omairys/omairys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
