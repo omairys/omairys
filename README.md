@@ -17,7 +17,7 @@ My name is Omairys, a student of the Mobile App Development program at Lambton C
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
-[![ReactNative](https://img.shields.io/badge/Reactnative-61DBFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010]()
+[![React Native](https://img.shields.io/badge/Reactnative-61DBFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![ORACLE](https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 </br>
 
